@@ -56,55 +56,55 @@ https://archive.ics.uci.edu/
 
 # 🧠 Learning Path
 
-### Python syntax, data processing and visualization, SQL
-✅ Python:
-•	Python (syntax, variables, data types, loops, functions),
-•	Data structures (lists, tuples, sets, dictionaries), comprehensions (map, filter, reduce, lambda), generators, datetime,
-•	Import modules, LEGB (Local, Enclosing eg. function nested in function, Global, Built-in),
-•	Try, except, finally, raise, type hints, *args i **kwargs,
-•	OOP, first-class functions, closures, decorators (property decorators), inheritance, dunders,
-•	File operations (csv, json, txt, xlsx),
-•	Threading, multiprocessing,
-✅ Data processing:
-•	NumPy (arrays, indexing, mathematical operations),
-•	Pandas (data loading, filtering, grouping, aggregation, apply, lambda, imputation, deletion),
-✅ Visualizations:
-•	Matplotlib & Seaborn (creating and editing plots),
-•	Statistical data analysis (mean, median, variance, standard deviation, correlation, covariance, distributions, statistical tests),
-✅ SQL:
-•	SQL – basics (select, where, having, limit, aliasing, group by, join, union, case, strings),
-•	Advanced SQL (subqueries, window functions, CTEs, temp tables, stored procedures, triggers and events, data cleaning),
+### Python syntax, data processing and visualization, SQL  
+✅ Python:  
+•	Python (syntax, variables, data types, loops, functions),  
+•	Data structures (lists, tuples, sets, dictionaries), comprehensions (map, filter, reduce, lambda), generators, datetime,  
+•	Import modules, LEGB (Local, Enclosing eg. function nested in function, Global, Built-in),  
+•	Try, except, finally, raise, type hints, *args i **kwargs,  
+•	OOP, first-class functions, closures, decorators (property decorators), inheritance, dunders,  
+•	File operations (csv, json, txt, xlsx),  
+•	Threading, multiprocessing,  
+✅ Data processing:  
+•	NumPy (arrays, indexing, mathematical operations),  
+•	Pandas (data loading, filtering, grouping, aggregation, apply, lambda, imputation, deletion),  
+✅ Visualizations:  
+•	Matplotlib & Seaborn (creating and editing plots),  
+•	Statistical data analysis (mean, median, variance, standard deviation, correlation, covariance, distributions, statistical tests),  
+✅ SQL:  
+•	SQL – basics (select, where, having, limit, aliasing, group by, join, union, case, strings),  
+•	Advanced SQL (subqueries, window functions, CTEs, temp tables, stored procedures, triggers and events, data cleaning),  
 
-### Visualization cont., Machine Learning, NLP
-✅ Visualizations:
-•	Excel – conditional formatting, pivot tables, visualizations, formulas and functions, lookups, data cleaning,
-•	Power BI – prepering data/formatting, joins and relationships, DAX, drill down, groups, conditional formatting, visualizations,
-•	Tableau – visualizations, joins and relationships, 
-✅ ML: 
-•	Supervised ML: linear regression, logistic regression, kNN, SVM P.2(kernel) – theory + sklearn implementation,
-•	Unsupervised ML: K Means Clustering – theory + sklearn implementation,
-•	Hyperparameter tuning (GridSearch, Random Search),
-•	Supervised ML: decision trees (sklearn implementation, Gini and entropy, manual implementation with entropy), random forests,
-✅ ML cont.:
-•	Unsupervised ML: Dbscan Clustering,
-•	Feature Selection – Variance Threshold, Pearson Correlation, Information Gain, Chi Square Test, Recursive Feature Elimination (RFE/RFECV), L1 Regularization, Mutual Information,
-•	Gradient Boosting (XGBoost, AdaBoost),
-•	Model evaluation metrics (Accuracy, MSE, RMSE, Confusion Matrix, ROC AUC, F1 Score – Recall/Precision),
-•	Dimensionality reduction PCA,
-•	Supervised ML: MultinomialNB,
-✅ NLP:
-•	NLP Text Preprocessing: cleaning the input – Tokenisation, Stemming, Lemmatization, Stopwords, Parts of Speech, Named Entity Recognition,
-•	NLP Text Preprocessing cont.: conveting text to vectors – One Hot Encoding, Bag of Words, N-Grams, TF-IDF, Word Embedding, Word2vec (CBOW, Skipgram / pre-trained by Google and from scratch), Avgword2vec,
+### Visualization cont., Machine Learning, NLP  
+✅ Visualizations:  
+•	Excel – conditional formatting, pivot tables, visualizations, formulas and functions, lookups, data cleaning,  
+•	Power BI – prepering data/formatting, joins and relationships, DAX, drill down, groups, conditional formatting, visualizations,  
+•	Tableau – visualizations, joins and relationships,   
+✅ ML:   
+•	Supervised ML: linear regression, logistic regression, kNN, SVM P.2(kernel) – theory + sklearn implementation,  
+•	Unsupervised ML: K Means Clustering – theory + sklearn implementation,  
+•	Hyperparameter tuning (GridSearch, Random Search),  
+•	Supervised ML: decision trees (sklearn implementation, Gini and entropy, manual implementation with entropy), random forests,  
+✅ ML cont.:  
+•	Unsupervised ML: Dbscan Clustering,  
+•	Feature Selection – Variance Threshold, Pearson Correlation, Information Gain, Chi Square Test, Recursive Feature Elimination (RFE/RFECV), L1 Regularization, Mutual Information,  
+•	Gradient Boosting (XGBoost, AdaBoost),  
+•	Model evaluation metrics (Accuracy, MSE, RMSE, Confusion Matrix, ROC AUC, F1 Score – Recall/Precision),  
+•	Dimensionality reduction PCA,  
+•	Supervised ML: MultinomialNB,  
+✅ NLP:  
+•	NLP Text Preprocessing: cleaning the input – Tokenisation, Stemming, Lemmatization, Stopwords, Parts of Speech, Named Entity Recognition,  
+•	NLP Text Preprocessing cont.: conveting text to vectors – One Hot Encoding, Bag of Words, N-Grams, TF-IDF, Word Embedding, Word2vec (CBOW, Skipgram / pre-trained by Google and from scratch), Avgword2vec,  
 
-### Deep Learning
-✅ DL:
-•	Deep Learning theory:
-    -	ANN, Perceptron, Propogation, Weights,
-    -	Exploding Gradient Problem (Uniform Distribution, Xavier/Glorot Initialization, Kaiming He Initialization),
-    -	Vanishing Gradient Problem, Activation Functions (Sigmoid, Tanh, Relu, ELU, Softmax),
-    -	Loss and Cost Function (Regression – MSE, MAE, Huber Loss, RMSE, Classification – Binary/Categorical/Spas Cross Entropy),
-    -	Gradient Descent Optimisers (SGD, Mini Batch SGD, SGD with Momentum, Adagard, RMSPROP, Adam),
-    -	Drop Out Layer,
+### Deep Learning  
+✅ DL:  
+•	Deep Learning theory:  
+-	ANN, Perceptron, Propogation, Weights,
+-	Exploding Gradient Problem (Uniform Distribution, Xavier/Glorot Initialization, Kaiming He Initialization),
+-	Vanishing Gradient Problem, Activation Functions (Sigmoid, Tanh, Relu, ELU, Softmax),
+-	Loss and Cost Function (Regression – MSE, MAE, Huber Loss, RMSE, Classification – Binary/Categorical/Spas Cross Entropy),
+-	Gradient Descent Optimisers (SGD, Mini Batch SGD, SGD with Momentum, Adagard, RMSPROP, Adam),
+-	Drop Out Layer,
 •	CNN (image processing), Padding, Relu Operation, Max/Min/Mean Pooling, Flatting, Fully Connected Layer,
 •	End to End Deep Learning Project Using ANN – Customer Churn Prediction + Streamlit
 
@@ -119,6 +119,5 @@ https://archive.ics.uci.edu/
 •	In depth Transformers Architecture,
 
 •	Beautifulsoup and requests basics,
-
 
 📌 This README serves as a structured summary of my Data Science skills, tools, and learning journey.
