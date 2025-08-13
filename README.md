@@ -10,11 +10,11 @@
 Python 3.10
 
 ### Python Libraries:
-Data Processing & Analysis: Pandas, NumPy
-Visualization: Matplotlib, Seaborn
-Statistics & ML: SciPy, Scikit-learn, SciKeras, XGBoost
-NLP: NLTK, Gensim, SpaCy
-Deep Learning: TensorFlow (CPU & GPU)
+Data Processing & Analysis: Pandas, NumPy  
+Visualization: Matplotlib, Seaborn  
+Statistics & ML: SciPy, Scikit-learn, SciKeras, XGBoost  
+NLP: NLTK, Gensim, SpaCy  
+Deep Learning: TensorFlow (CPU & GPU)  
 Others: Pickle, TensorBoard, Streamlit, BeautifulSoup4, lxml, requests
 
 ### 📊Databases:
@@ -33,8 +33,8 @@ Windows 10
 PyCharm, VS Code, Anaconda, Jupyter Notebook
 
 ### 📚 Learning Sources:
-YouTube: Corey Schafer, Mosh, Keith Galli, Josh Starmer, Derek Banas, Alex The Analyst, Tech With Tim, 3Blue1Brown, Alejandro AO, Krish Naik
-
+YouTube: Corey Schafer, Mosh, Keith Galli, Josh Starmer, Derek Banas, Alex The Analyst, Tech With Tim, 3Blue1Brown, Alejandro AO, Krish Naik  
+  
 Udemy: Mosh Hamedani, Paweł Krakowiak, Kirill Eremenko, Krish Naik – Data Science Bootcamp
 
 Documentation:
