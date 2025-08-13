@@ -37,21 +37,21 @@ YouTube: Corey Schafer, Mosh, Keith Galli, Josh Starmer, Derek Banas, Alex The A
   
 Udemy: Mosh Hamedani, Paweł Krakowiak, Kirill Eremenko, Krish Naik – Data Science Bootcamp
 
-Documentation:
-https://docs.python.org/
-https://docs.pypi.org/
-https://www.w3schools.com/python/
-https://pandas.pydata.org/docs/user_guide/
-https://matplotlib.org/stable/api/index.html
-https://seaborn.pydata.org/api.html
-https://scikit-learn.org/stable/api/index.html
-https://xgboost.readthedocs.io/en/release_3.0.0/
+Documentation:  
+https://docs.python.org/  
+https://docs.pypi.org/  
+https://www.w3schools.com/python/  
+https://pandas.pydata.org/docs/user_guide/  
+https://matplotlib.org/stable/api/index.html  
+https://seaborn.pydata.org/api.html  
+https://scikit-learn.org/stable/api/index.html  
+https://xgboost.readthedocs.io/en/release_3.0.0/  
 https://www.nltk.org/api/nltk.html
 
-Databases:
-https://github.com/
-https://www.kaggle.com/
-https://stackoverflow.com/
+Databases:  
+https://github.com/  
+https://www.kaggle.com/  
+https://stackoverflow.com/  
 https://archive.ics.uci.edu/
 
 # 🧠 Learning Path
