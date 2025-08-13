@@ -1,12 +1,13 @@
 # 🧠 Data Scientist – Skills & Learning Path
 
 ## 🖥 Programming Background – known syntax basics:
-C – University
-C++ – High school, self-taught
-C# – Self-taught
+• C – University
+• C++ – High school, self-taught
+• C# – Self-taught
 
 ## ⚙️ Technologies & Tools
-### Programming Language: Python 3.10
+### Programming Language:
+Python 3.10
 
 ### Python Libraries:
 Data Processing & Analysis: Pandas, NumPy
