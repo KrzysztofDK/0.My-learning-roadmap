@@ -10,12 +10,12 @@
 Python 3.10
 
 ### Python Libraries:
-Data Processing & Analysis:    Pandas, NumPy  
-Visualization:                 Matplotlib, Seaborn  
-Statistics & ML:               SciPy, Scikit-learn, SciKeras, XGBoost  
-NLP:                           NLTK, Gensim, SpaCy  
-Deep Learning:                 TensorFlow (CPU & GPU)  
-Others:                        Pickle, TensorBoard, Streamlit, BeautifulSoup4, lxml, requests
+*Data Processing & Analysis:* Pandas, NumPy  
+*Visualization:* Matplotlib, Seaborn  
+*Statistics & ML:* SciPy, Scikit-learn, SciKeras, XGBoost  
+*NLP:* NLTK, Gensim, SpaCy  
+*Deep Learning:* TensorFlow (CPU & GPU)  
+*Others:* Pickle, TensorBoard, Streamlit, BeautifulSoup4, lxml, requests, pyyaml
 
 ### 📊Databases:
 MySQL Workbench
